@@ -44,7 +44,7 @@ All personal email IDs and sensitive credentials have been intentionally blurred
 ![Recipients.csv Data](assets/recipients-csv-data.jpg)
 ### Source Code (Output) 
 ![Source Code Output](assets/program-output.jpg)
-### Email+log.txt (Sample Data) 
+### Email+log.txt (Sample Log) 
 ![Email+log.txt Data](assets/email-log-output.jpg)
 ### Emails Sent (Outputs)
 ![Email Output 1](assets/email-output-1.jpg)
