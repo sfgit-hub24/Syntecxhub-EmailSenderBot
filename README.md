@@ -41,14 +41,14 @@ python email_sender_bot.py
 ⚠️ Privacy Notice:
 All personal email IDs and sensitive credentials have been intentionally blurred/hidden in the screenshots to maintain security and confidentiality.
 ### Recepients.csv (Data) 
-![Recipients.csv Data](assets/RECIPIENTS.CSV-DATA.jpg)
+![Recipients.csv Data](assets/recipients-csv-data.jpg)
 ### Source Code (Output) 
-![Source Code Output](assets/PROGRAM-OUTPUT.jpg)
+![Source Code Output](assets/program-output.jpg)
 ### Email+log.txt (Data) 
-![Email+log.txt Data](assets/EMAIL+LOG-OUTPUT.jpg)
+![Email+log.txt Data](assets/email-log-output.jpg)
 ### Emails Sent (Output)
-![Email Output 1](assets/EMAIL-OUTPUT-1.jpg)
-![Email Output 2](assets/EMAIL-OUTPUT-2.jpg)
+![Email Output 1](assets/email-output-1.jpg)
+![Email Output 2](assets/email-output-2.jpg)
 
 ---
 ## Security Note
@@ -59,3 +59,6 @@ All personal email IDs and sensitive credentials have been intentionally blurred
 ## Author
 Safa Fatima 
 2nd Year CSE STUDENT
+
+Internship Task 3 Submission 
+---
