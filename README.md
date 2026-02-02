@@ -32,6 +32,7 @@ Python, smtplib, email, logging, python-dotenv
 pip install -r requirements.txt
 ### Create .env
 EMAIL_ID=your_email@gmail.com
+
 EMAIL_APP_PASSWORD=your_app_password
 ### Run
 python email_sender_bot.py
@@ -47,6 +48,7 @@ All personal email IDs and sensitive credentials have been intentionally blurred
 ![Email+log.txt Data](assets/)
 ### Emails Sent (Output)
 ![Email Output 1](assets/)
+
 ![Email Output 2](assets/)
 ---
 ## Security Note
