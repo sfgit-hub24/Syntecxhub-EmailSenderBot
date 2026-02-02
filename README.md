@@ -40,13 +40,13 @@ python email_sender_bot.py
 ## Sample Outputs
 ⚠️ Privacy Notice:
 All personal email IDs and sensitive credentials have been intentionally blurred/hidden in the screenshots to maintain security and confidentiality.
-### Recepients.csv (Data) 
+### Recepients.csv (Sample Data) 
 ![Recipients.csv Data](assets/recipients-csv-data.jpg)
 ### Source Code (Output) 
 ![Source Code Output](assets/program-output.jpg)
-### Email+log.txt (Data) 
+### Email+log.txt (Sample Data) 
 ![Email+log.txt Data](assets/email-log-output.jpg)
-### Emails Sent (Output)
+### Emails Sent (Outputs)
 ![Email Output 1](assets/email-output-1.jpg)
 ![Email Output 2](assets/email-output-2.jpg)
 
