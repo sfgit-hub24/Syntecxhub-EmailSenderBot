@@ -1,0 +1,3 @@
+python-dotenv
+#python-dotenv is used for loading environment variables from a .env file into a Python application's environment. 
+#This practice helps manage configuration settings and sensitive information (like API keys, passwords, and database URLs) separately from the source code, which enhances security, improves code portability, and simplifies configuration management across different environments.
